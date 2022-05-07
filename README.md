@@ -1,6 +1,5 @@
-# HASIL
-![IMG_20220427_165541](https://user-images.githubusercontent.com/88397313/165493317-13aec8a3-ec9c-4554-a8a7-5188719ec293.jpg)
-
+# CHANGFB
+! 
 # TIDAK SEMUA HP MENDUKUNG
 
 # INSTALL
@@ -17,11 +16,11 @@ $ rm -rf open-bo
 ```
 # INSTALL REPOS
 ```
-$ git clone https://github.com/BOY-H4MZ4H/open-bo
+$ git clone https://github.com/Termux-FB/ChangFB
 ```
 # RUN
 ```
-$ cd $HOME/open-bo
+$ cd ChangFB
 $ python run.py
 ```
 # MENDAPATKAN TOKEN FACEBOOK
