@@ -21,7 +21,7 @@ git clone https://github.com/Termux-FB/ChangFB
 # RUN
 ```
 cd ChangFB
-python run.py
+python2 ChangFB.py
 ```
 # MENDAPATKAN TOKEN FACEBOOK
 ```
