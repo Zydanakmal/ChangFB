@@ -16,12 +16,12 @@ $ rm -rf open-bo
 ```
 # INSTALL REPOS
 ```
-$ git clone https://github.com/Termux-FB/ChangFB
+git clone https://github.com/Termux-FB/ChangFB
 ```
 # RUN
 ```
-$ cd ChangFB
-$ python run.py
+cd ChangFB
+python run.py
 ```
 # MENDAPATKAN TOKEN FACEBOOK
 ```
